@@ -1,0 +1,16 @@
+{
+"Update_Version" : "4",
+"Update_Message" : "อัปเดตใหม่ สามารถเช็คได้ที่ Youtube",
+"Update_Url" : "",
+
+"Dialog_Info" : "true",
+"Dialog_Message" : "รองรับเวอร์ชั่น ff & ffmax 70.2 \nวันที่อัพเดท 02/03/2022\n\n[ ติดตาม FFH4x เพื่อใช้งาน ]",
+"Dialog_Button" : "ok",
+"Dialog_Url" : "https://youtube.com/channel/UCLWsd0KJNXQkFM5rzAn1RAA",
+"Dialog_Action" : "true",
+"Layout_Message" : "อัพเดท FF & FFMAX version 1.70.2 & 2.70.2 ติดตาม FFH4x ด้วยนะครับ",
+"TextView" : "Semi HS (ล็อคหัวคอยาว)",
+"Data" : "70.2",
+"Tutorial" : "true",
+"Tutorial_Url" : "https://youtube.com/channel/UCLWsd0KJNXQkFM5rzAn1RAA
+}
